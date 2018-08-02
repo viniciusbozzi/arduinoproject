@@ -4,7 +4,7 @@ title: ProjArd - Projetos com Arduinos
 description: > # this means to ignore newlines until "baseurl:"
   O site abriga vários projetos de arduinos prontos para tirar notas exelentes. No site voce encontra tutoriais bem detalhados para aprender a montar o projeto do "zero"
 permalink: ':title/'
-baseurl: "/projard" # the subpath of your site, e.g. /blog
+baseurl: "/fresh" # the subpath of your site, e.g. /blog
 url: "viniciusbozzi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
